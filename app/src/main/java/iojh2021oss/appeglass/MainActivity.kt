@@ -25,13 +25,13 @@ class MainActivity : Activity() {
             setBackgroundColor(0xFF101923.toInt())
         }
         val title = TextView(this).apply {
-            text = "APPE  •  GLASS LAYER"
+            text = "APPE  •  GLASS MEMORY"
             textSize = 24f
             setTextColor(0xFFEAF6FF.toInt())
             gravity = Gravity.CENTER
         }
         val description = TextView(this).apply {
-            text = "یک لایه شیشه‌ای شفاف روی برنامه‌های دیگر؛ با امکان تنظیم شدت و خاموش‌کردن فوری."
+            text = "لایه شیشه‌ای شناور با حافظه تصویری؛ تصویر صفحه با اجازه شما ثبت و روی گلس نگه داشته می‌شود."
             textSize = 16f
             setTextColor(0xFFB8CAD8.toInt())
             gravity = Gravity.CENTER
